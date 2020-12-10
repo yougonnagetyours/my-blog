@@ -1,5 +1,5 @@
 const siteMetadata = {
-    title: `WOODY`,
+    title: `Woody`,
     siteUrl: `https://woody-blog.netlify.app/`,
     capitalizeTitleOnHome: false,
     logo: `/images/logo.png`,
@@ -8,10 +8,10 @@ const siteMetadata = {
     ogImage: `/images/world.jpg`,
     twoColumnWall: true,
     cookiePolicy: true,
-    introTag: `EXPEDITIONS`,
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
+    introTag: `Blog pseudo-podrózniczy`,
+    description: `Wyprawy wszedzie i nigdzie starym, ale jarym Nissanem Terrano II.`,
     about:
-        "Cras accumsan a lectus at tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus elementum dapibus dictum. Mauris auctor quam nec est tincidunt hendrerit. Donec pulvinar lobortis mauris. Cras vulputate ullamcorper ligula a rhoncus. Nunc venenatis elementum ligula in semper. Mauris malesuada purus nunc, et ultricies leo aliquam ac. Ut sit amet nunc id magna accumsan hendrerit in eget metus.",
+        "Jestem Michał, zwą mnie Woody.",
     author: `@_yougonnagetyours`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
