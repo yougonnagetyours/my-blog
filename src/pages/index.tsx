@@ -97,7 +97,7 @@ const Wall = ({ data }) => {
             <p className="text-base lg:text-lg mt-4">{data.description}</p>
             <ScrollIntoView selector="#portfolio">
                 <Button
-                    title="Zobacz prace"
+                    title="Portfolio"
                     type="button"
                     iconRight={<ArrowRight />}
                 />
@@ -173,7 +173,7 @@ const Contact = ({ data }) => {
         <div className="container mx-auto">
             <div className="pt-20 pb-10 lg:pt-40 lg:pb-20 text-center">
                 <h2 className="text-color-1 font-black text-5xl lg:text-6xl">
-                    Contact
+                    Kontakt
                 </h2>
             </div>
             <div className="flex flex-wrap pb-40">

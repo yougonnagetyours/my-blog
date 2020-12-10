@@ -49,12 +49,12 @@ const siteMetadata = {
         {
             name: "Facebook",
             icon: "/images/Facebook.svg",
-            url: "#",
+            url: "https://pl-pl.facebook.com/people/Micha%C5%82-Potoczny/100000361479581",
         },
         {
             name: "Instagram",
             icon: "/images/Instagram.svg",
-            url: "#",
+            url: "https://www.instagram.com/yougonnagetyours/",
         },
         {
             name: "Youtube",
