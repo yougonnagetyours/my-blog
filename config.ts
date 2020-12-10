@@ -11,7 +11,7 @@ const siteMetadata = {
     introTag: `Blog pseudo-podrózniczy`,
     description: `Wyprawy wszedzie i nigdzie starym, ale jarym Nissanem Terrano II.`,
     about:
-        "Jestem Michał, zwą mnie Woody.",
+        "Jestem Michał, a zwą mnie Woody.",
     author: `@_yougonnagetyours`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
@@ -23,7 +23,7 @@ const siteMetadata = {
             url: "/",
         },
         {
-            name: "ABOUT",
+            name: "O MNIE",
             url: "/about",
         },
         {
@@ -35,7 +35,7 @@ const siteMetadata = {
             url: "/portfolio",
         },
         {
-            name: "CONTACT",
+            name: "KONTAKT",
             url: "/contact",
         },
     ],
