@@ -65,12 +65,12 @@ const siteMetadata = {
     contact: {
         // leave empty ('') or false to hide form
         api_url: '',
-        description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
-        mail: "hi@akzhy.com",
+        description: ``,
+        mail: "yougonnagetyours@gmail.com",
         phone: "694-773-906",
-        address: "1234 \nLocation \nLocation",
+        address: "",
     },
-    disqus: `your-disqus-shortname`
+    disqus: ``
 }
 
 const beforeContactFormSubmit = data => {
