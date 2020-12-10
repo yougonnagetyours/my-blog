@@ -4,8 +4,8 @@ const siteMetadata = {
     capitalizeTitleOnHome: false,
     logo: `/images/logo.png`,
     icon: `/images/icon.png`,
-    titleImage: `/images/wall.png`,
-    ogImage: `/images/wall.png`,
+    titleImage: `/images/world.jpg`,
+    ogImage: `/images/world.jpg`,
     twoColumnWall: true,
     cookiePolicy: true,
     introTag: `EXPEDITIONS`,
@@ -16,7 +16,7 @@ const siteMetadata = {
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
     darkmode: true,
-    switchTheme: true,
+    switchTheme: false,
     navLinks: [
         {
             name: "HOME",
