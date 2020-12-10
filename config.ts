@@ -70,6 +70,7 @@ const siteMetadata = {
         phone: "694-773-906",
         address: "1234 \nLocation \nLocation",
     },
+    disqus: `your-disqus-shortname`
 }
 
 const beforeContactFormSubmit = data => {
