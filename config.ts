@@ -31,10 +31,6 @@ const siteMetadata = {
             url: "/blog",
         },
         {
-            name: "PORTFOLIO",
-            url: "/portfolio",
-        },
-        {
             name: "CONTACT",
             url: "/contact",
         },
