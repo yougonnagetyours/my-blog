@@ -8,7 +8,7 @@ const siteMetadata = {
     ogImage: `/images/world.jpg`,
     twoColumnWall: true,
     cookiePolicy: true,
-    introTag: `Travel blog`,
+    introTag: `TRAVEL BLOG`,
     description: `Expeditions everywhere and nowhere in old but hot Nissan Terrano II.`,
     about:
         "I am Michal, but call me Woody.",
