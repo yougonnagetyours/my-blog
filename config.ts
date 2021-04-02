@@ -1,5 +1,5 @@
 const siteMetadata = {
-    title: `yougonagetyours`,
+    title: `yougona getyours`,
     siteUrl: `https://woody-blog.netlify.app/`,
     capitalizeTitleOnHome: false,
     logo: `/images/4x4_1.png`,
