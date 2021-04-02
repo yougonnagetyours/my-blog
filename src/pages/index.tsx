@@ -146,7 +146,7 @@ const About = ({ data }) => {
         <div className="boxed">
             <div className="px-4 py-20 text-center lg:py-40 lg:px-0">
                 <h2 className="text-color-1 font-black text-5xl lg:text-6xl">
-                    O mnie
+                    About
                 </h2>
                 <p className="mt-5 text-lg">{data}</p>
             </div>
@@ -173,7 +173,7 @@ const Contact = ({ data }) => {
         <div className="container mx-auto">
             <div className="pt-20 pb-10 lg:pt-40 lg:pb-20 text-center">
                 <h2 className="text-color-1 font-black text-5xl lg:text-6xl">
-                    Kontakt
+                    Contact
                 </h2>
             </div>
             <div className="flex flex-wrap pb-40">

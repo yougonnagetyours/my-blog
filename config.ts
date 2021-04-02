@@ -8,10 +8,10 @@ const siteMetadata = {
     ogImage: `/images/world.jpg`,
     twoColumnWall: true,
     cookiePolicy: true,
-    introTag: `Blog pseudo-podrózniczy`,
-    description: `Wyprawy wszedzie i nigdzie starym, ale jarym Nissanem Terrano II.`,
+    introTag: `Travel blog`,
+    description: `Expeditions everywhere and nowhere in old but hot Nissan Terrano II.`,
     about:
-        "Jestem Michał, a zwą mnie Woody.",
+        "I am Michal, but call me Woody.",
     author: `@_yougonnagetyours`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
