@@ -1,7 +1,7 @@
 const siteMetadata = {
     title: `you gonna get yours`,
     siteUrl: `https://woody-blog.netlify.app/`,
-    capitalizeTitleOnHome: false,
+    capitalizeTitleOnHome: true,
     logo: `/images/4x4_1.png`,
     icon: `/images/4x4_1.png`,
     titleImage: `/images/world.jpg`,
