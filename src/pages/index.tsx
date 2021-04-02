@@ -97,7 +97,7 @@ const Wall = ({ data }) => {
             <p className="text-base lg:text-lg mt-4">{data.description}</p>
             <ScrollIntoView selector="#portfolio">
                 <Button
-                    title="Portfolio"
+                    title="BLOG"
                     type="button"
                     iconRight={<ArrowRight />}
                 />
