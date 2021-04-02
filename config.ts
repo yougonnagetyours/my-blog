@@ -30,10 +30,7 @@ const siteMetadata = {
             name: "BLOG",
             url: "/blog",
         },
-        {
-            name: "PORTFOLIO",
-            url: "/portfolio",
-        },
+        
         {
             name: "KONTAKT",
             url: "/contact",
