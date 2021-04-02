@@ -40,7 +40,7 @@ export default ({ data, location }: PageProps<IndexPageQuery>) => {
             <Wall data={siteData} />
             {siteData.about !== "" && <About data={siteData.about} />}
             <div className="px-4 lg:px-0" id="portfolio">
-                {portfolioList}
+                //{portfolioList}
             </div>
             <Blog>{blogList}</Blog>
             <Contact data={siteData.contact} />
