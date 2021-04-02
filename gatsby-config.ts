@@ -19,7 +19,7 @@ const plugins = [
     {
         resolve: `gatsby-source-filesystem`,
         options: {
-            name: `portfolio`,
+            name: `portfolia`,
             path: `${__dirname}/contents/portfolio/`,
         },
     },
