@@ -23,7 +23,7 @@ const siteMetadata = {
             url: "/",
         },
         {
-            name: "O MNIE",
+            name: "ABOUT ME",
             url: "/about",
         },
         {
@@ -32,7 +32,7 @@ const siteMetadata = {
         },
         
         {
-            name: "KONTAKT",
+            name: "CONTACT",
             url: "/contact",
         },
     ],
@@ -53,17 +53,13 @@ const siteMetadata = {
             icon: "/images/Instagram.svg",
             url: "https://www.instagram.com/yougonnagetyours/",
         },
-        {
-            name: "Youtube",
-            icon: "/images/Youtube.svg",
-            url: "#",
-        },
+        
     ],
     contact: {
         // leave empty ('') or false to hide form
         api_url: '',
         description: ``,
-        mail: "yougonnagetyours@gmail.com",
+        mail: "michal.potoczny.92@gmail.com",
         phone: "694-773-906",
         address: "",
     },
